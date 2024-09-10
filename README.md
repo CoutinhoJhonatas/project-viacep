@@ -10,6 +10,8 @@ A aplicação permite ao usuário pesquisar um CEP e, em seguida, é feita uma r
 ## Layout
 ![Web 1](https://github.com/CoutinhoJhonatas/assets/blob/main/DSViaCEP/DSViaCEP.png)
 
+![Web 2](https://github.com/CoutinhoJhonatas/assets/blob/main/DSViaCEP/DSViaCEP3.png)
+
 # 🔨 Tecnologias utilizadas
 ## Front end
 - HTML / CSS / JS
